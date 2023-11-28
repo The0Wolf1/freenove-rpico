@@ -1,0 +1,2 @@
+# freenove-rpico
+Freenove oppgaver
